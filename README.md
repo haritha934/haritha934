@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @haritha934
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+In this Project I performed few basic machine learning concepts.
+It is about classification algorithms using social network ads data set 
+algorithms: 1) KNN 2) SVM 3) SVM kernal 4) Decision Tree classification 5) Radom Forest Classification
 
-<!---
-haritha934/haritha934 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+KNN
+KNN means K-Nearest Neighbour classifier
+It is basic classification Algorithm in ML and it is a supervised learning
+Applications: Pattern Recognition
+              data mining
+              intrusion detection
+              
+SVM and kernel SVM
+SVM means it is a Support Vector Machine
+In this we will have a parameter called kernel 
+There are 5 types of Kerels
+              1) Linear
+              2) rbf (default kernel)
+              3) polynomial(poly)
+              4) sigmoid
+              5) precomputed
+              
